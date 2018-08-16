@@ -1,5 +1,5 @@
 // Databricks notebook source
-// MAGIC %fs ls /lan
+// MAGIC %fs ls /lan1
 
 // COMMAND ----------
 
