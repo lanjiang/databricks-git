@@ -298,3 +298,8 @@ spark.sql("analyze table parquettest compute statistics for columns duration")
 
 // COMMAND ----------
 
+// MAGIC %sql
+// MAGIC grant select on `default.deltatest` to `aon@databricks.com`, `abc`
+
+// COMMAND ----------
+
